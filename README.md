@@ -132,19 +132,7 @@ Building experience in online business through product research, digital sales, 
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&title_color=F58BC2&icon_color=F58BC2&text_color=F5F5F5&bg_color=0D1117" alt="GitHub statistics">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true&background=0D1117&ring=F58BC2&fire=FFB6D9&currStreakLabel=F58BC2&sideLabels=F5F5F5&dates=B8B8B8&currStreakNum=F5F5F5&sideNums=F5F5F5" alt="GitHub streak">
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&title_color=F58BC2&text_color=F5F5F5&bg_color=0D1117" alt="Most used languages">
-
-</div>
 
 ---
 
