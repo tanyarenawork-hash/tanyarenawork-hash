@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Tanya ✨
+# Hi, I'm Tanya 🌸
 
-Building businesses.
-Designing websites.
-Learning every day.
+### Finance Student | Founder | Web Developer
+
+Building thoughtful technology, growing businesses, and creating opportunities through innovation.
 
 </div>
 ---
