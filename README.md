@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi, I'm Tanya 👋🏾
+<img src="./assets/tanya-github-banner.png" width="100%" alt="GitHub Banner">
 
-### Finance • Technology • Entrepreneurship
+<br><br>
 
-Creating products that blend business, technology, and social impact.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=850&lines=Finance+Student;Founder;Web+Developer;Building+technology+that+educates+and+empowers+🌸" />
+
+<br><br>
+
+Building thoughtful technology, growing businesses, and creating opportunities through finance, innovation, and entrepreneurship.
 
 </div>
 
