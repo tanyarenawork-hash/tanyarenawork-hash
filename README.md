@@ -1,11 +1,4 @@
-<div align="center">
-
-### 👋 Welcome to my GitHub!
-
-I'm passionate about building technology that solves real-world problems through finance, entrepreneurship, and thoughtful design. Here you'll find the projects I'm creating, the technologies I'm learning, and the ideas I'm bringing to life.
-
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=F58BC2&center=true&vCenter=true&width=700&lines=Finance+Student;Founder;Full-Stack+Web+Developer;Building+the+future+one+project+at+a+time." />
 ---
 
 ## 🚀 Current Projects
