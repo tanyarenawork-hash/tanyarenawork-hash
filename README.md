@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./assets/animated-clouds.svg" width="100%" />
+
 # Hi, I'm Tanya 🌸
 
 ### Finance Student • Founder • Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=850&lines=Building+technology+that+educates+and+empowers.;Creating+beautiful+web+experiences.;Finance+%E2%80%A2+Entrepreneurship+%E2%80%A2+Innovation.;Always+learning.+Always+creating.+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=850&lines=Building+technology+that+educates+and+empowers.;Creating+beautiful+web+experiences.;Finance+%E2%80%A2+Entrepreneurship+%E2%80%A2+Innovation.;Always+learning.+Always+creating.+🌸" />
 
 Building thoughtful technology, growing businesses, and creating opportunities through innovation.
 
