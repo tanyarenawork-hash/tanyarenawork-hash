@@ -1,16 +1,50 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
 
-<img src="./assets/animated-clouds.svg" width="100%" />
+<style>
+.cloud{
+opacity:.9;
+animation: drift 18s linear infinite;
+}
 
-# Hi, I'm Tanya 🌸
+.cloud2{
+animation-delay:6s;
+}
 
-### Finance Student • Founder • Web Developer
+.cloud3{
+animation-delay:12s;
+}
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=850&lines=Building+technology+that+educates+and+empowers.;Creating+beautiful+web+experiences.;Finance+%E2%80%A2+Entrepreneurship+%E2%80%A2+Innovation.;Always+learning.+Always+creating.+🌸" />
+@keyframes drift{
+0%{
+transform:translateX(-450px);
+opacity:0;
+}
+15%{
+opacity:1;
+}
+85%{
+opacity:1;
+}
+100%{
+transform:translateX(1450px);
+opacity:0;
+}
+}
+</style>
 
-Building thoughtful technology, growing businesses, and creating opportunities through innovation.
+<g class="cloud">
+<image href="pink-cloud.png" x="0" y="10" width="220"/>
+</g>
 
-</div>
+<g class="cloud cloud2">
+<image href="pink-cloud.png" x="250" y="40" width="180"/>
+</g>
+
+<g class="cloud cloud3">
+<image href="pink-cloud.png" x="600" y="0" width="260"/>
+</g>
+
+</svg>
 ---
 
 ## 🚀 Current Projects
