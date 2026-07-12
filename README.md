@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi, I'm Tanya 🌸
+# Hi, I'm <span style="color:#F58BC2;">Tanya</span> 🌸
 
-### Finance Student | Founder | Web Developer
+### <span style="color:#F8A5C2;">Finance Student</span> • <span style="color:#F8A5C2;">Founder</span> • <span style="color:#F8A5C2;">Web Developer</span>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=850&lines=Building+technology+that+educates+and+empowers.;Creating+beautiful+web+experiences.;Finance+%E2%80%A2+Entrepreneurship+%E2%80%A2+Innovation.;Always+learning.+Always+creating.+%F0%9F%8C%B8" alt="Typing SVG" />
+
+<br><br>
 
 Building thoughtful technology, growing businesses, and creating opportunities through innovation.
 
