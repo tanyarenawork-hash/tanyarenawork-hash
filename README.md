@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/tanya-github-banner.png" width="100%" alt="Tanya GitHub Profile Banner">
+<img src="./assets/tanyarenawork-github-banner.png" width="100%" alt="Tanya GitHub Profile Banner">
 
 <br>
 
@@ -13,7 +13,7 @@
 ## 💗 About Me
 
 ```javascript
-const tanya = {
+const tanyarenawork = {
   education: "Finance Student",
   roles: [
     "Founder",
@@ -212,7 +212,7 @@ Technology is more powerful when it is used to educate, empower, and create oppo
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanya-youboty-4794942b4/">
+<a href="https://linkedin.com/in/tanya-youboty-4794942b4/">
 <img src="https://img.shields.io/badge/LinkedIn-FFD6EA?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
@@ -230,5 +230,3 @@ Technology is more powerful when it is used to educate, empower, and create oppo
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=F58BC2&style=for-the-badge" alt="Profile views">
 
 ### 💕 Thanks for visiting my profile!
-
-</div>
