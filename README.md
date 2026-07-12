@@ -199,6 +199,5 @@ Technology is more powerful when it is used to educate, empower, and create oppo
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=F58BC2&style=for-the-badge" alt="Profile views">
 
 ### 💕 Thanks for visiting my profile!
