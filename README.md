@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="./assets/tanyarenawork-github-banner.png" width="100%" alt="Tanya GitHub Profile Banner">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=F58BC2&center=true&vCenter=true&width=700&lines=Finance+Student+%E2%80%A2+Founder+%E2%80%A2+Web+Developer;Building+Technology+That+Creates+Impact;Finance+%E2%80%A2+Entrepreneurship+%E2%80%A2+Innovation" alt="Typing introduction">
 
 </div>
 
