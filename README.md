@@ -1,34 +1,12 @@
+<div align="center">
+
+# Hi, I'm Tanya 👋🏾
+
+### Finance • Technology • Entrepreneurship
+
+Creating products that blend business, technology, and social impact.
 
 </div>
-
----
-
-## 💗 About Me
-
-```javascript
-const tanyarenawork = {
-  education: "Finance Student",
-  roles: [
-    "Founder",
-    "Freelance Web Developer",
-    "Entrepreneur",
-    "Amazon Seller"
-  ],
-  organizations: [
-    "Rigdom Atlas",
-    "Nerine Harbor"
-  ],
-  interests: [
-    "Finance",
-    "Technology",
-    "Entrepreneurship",
-    "Cloud Computing",
-    "Data Analytics",
-    "Artificial Intelligence"
-  ],
-  mission: "Building ideas that educate, empower, and create impact."
-};
-```
 
 ---
 
