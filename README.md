@@ -1,4 +1,12 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=F58BC2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I+love+building+beautiful+things.;Always+learning.+Always+creating.;Thanks+for+stopping+by+🌸" />
+<div align="center">
+
+# Hey there, I'm Tanya ✨
+
+Building businesses.
+Designing websites.
+Learning every day.
+
+</div>
 ---
 
 ## 🚀 Current Projects
