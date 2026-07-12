@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="./assets/tanya-github-banner.png" width="100%" alt="GitHub Banner">
+### 👋 Welcome to my GitHub!
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub!+🌸;Finance+Student;Founder;Building+products+that+make+a+difference;Always+learning.+Always+creating." />
-
-<br><br>
-
-From websites and startups to finance and technology, this is where I build, learn, and share my journey.
+I'm passionate about building technology that solves real-world problems through finance, entrepreneurship, and thoughtful design. Here you'll find the projects I'm creating, the technologies I'm learning, and the ideas I'm bringing to life.
 
 </div>
 
