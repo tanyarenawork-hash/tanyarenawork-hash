@@ -4,11 +4,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+🌸;Finance+Student;Founder;Web+Developer;Turning+ideas+into+reality+one+commit+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=F58BC2&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub!+🌸;Finance+Student;Founder;Building+products+that+make+a+difference;Always+learning.+Always+creating." />
 
 <br><br>
 
-I enjoy building beautiful websites, exploring finance and technology, and creating projects that make a meaningful impact.
+From websites and startups to finance and technology, this is where I build, learn, and share my journey.
 
 </div>
 
